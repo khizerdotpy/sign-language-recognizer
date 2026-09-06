@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+#venv
+
+.signlang/
