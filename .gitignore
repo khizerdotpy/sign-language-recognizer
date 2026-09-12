@@ -1,9 +1,15 @@
+# Virtual environments
+signlang/
+.venv/
+venv/
+
 # VS Code settings
 .vscode/
 
 # Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+.ipynb_checkpoints/git status
 
-#venv
 
-.signlang/
+# Python cache
+__pycache__/
+*.pyc
